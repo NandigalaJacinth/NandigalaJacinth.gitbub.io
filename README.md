@@ -3,14 +3,12 @@
 **3rd Year B.Tech, Data Science & Engineering**  
 **Manipal University Jaipur**  
 **Phone**: +91-8861633530  
-**Email**: jacinthrk@gmail.com  
-**Address**: #214, 5th Main Road, Muthanallur Cross, Sarjapur Main Road, Bangalore - 562125  
+**Email**: jacinthrk@gmail.com 
 **LinkedIn**: [linkedin.com/in/jacinth-rk-829b98262](https://www.linkedin.com/in/jacinth-rk-829b98262)
 
 ---
 
-## Objective
-Seeking a suitable internship to advance my career and gain practical business insights, enhancing my skills in Data Science and Machine Learning/AI.
+Current a student studying in Manipal University Jaipur, Rajasthan pursuing my Bachelor's Degree in Data Science and Engineering.
 
 ---
 
@@ -36,8 +34,8 @@ Seeking a suitable internship to advance my career and gain practical business i
 ## Technical Skills
 
 **Fields**: Machine Learning, Data Analytics, Data Analysis  
-**Languages**: Python, C++, Java  
-**Web Technologies**: MySQL
+**Languages**: Python, C++, C, Java,   
+**Web Technologies**: MySQL, HTML
 
 ---
 
