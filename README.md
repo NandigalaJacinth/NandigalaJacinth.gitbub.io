@@ -17,7 +17,7 @@ Currently a student studying in Manipal University Jaipur, Rajasthan pursuing my
 **Manipal University Jaipur**  
 *Bachelor of Technology, Data Science & Engineering*  
 2022 – Present  
-**CGPA**: 7.51/10
+**CGPA**: 8.04/10
 
 **Central Board of Secondary Education (CBSE)**  
 *Senior Secondary Examination*  
