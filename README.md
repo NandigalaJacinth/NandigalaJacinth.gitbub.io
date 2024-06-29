@@ -2,7 +2,8 @@
 **3rd Year B.Tech, Data Science & Engineering**  
 **Manipal University Jaipur**  
 **Phone**: +91-8861633530  
-**Email**: jacinthrk@gmail.com 
+**Email**: jacinthrk@gmail.com
+
 **LinkedIn**: [linkedin.com/in/jacinth-rk-829b98262](https://www.linkedin.com/in/jacinth-rk-829b98262)
 
 ---
