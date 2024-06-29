@@ -1,4 +1,3 @@
-# Nandigala Jacinth Ruel Knox
 
 **3rd Year B.Tech, Data Science & Engineering**  
 **Manipal University Jaipur**  
