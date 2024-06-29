@@ -8,7 +8,7 @@
 
 ---
 
-Current a student studying in Manipal University Jaipur, Rajasthan pursuing my Bachelor's Degree in Data Science and Engineering.
+Currently a student studying in Manipal University Jaipur, Rajasthan pursuing my Bachelor's Degree in Data Science and Engineering.
 
 ---
 
