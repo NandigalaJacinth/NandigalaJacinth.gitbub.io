@@ -22,12 +22,12 @@ Currently a student studying in Manipal University Jaipur, Rajasthan pursuing my
 **Central Board of Secondary Education (CBSE)**  
 *Senior Secondary Examination*  
 2022  
-**Percentage**: 89.2%
+**Percentage**: 79.6%
 
 **Indian Certificate of Secondary Education (ICSE)**  
 *Secondary Examination*  
 2020  
-**Percentage**: 79.6%
+**Percentage**: 89.2%
 
 ---
 
